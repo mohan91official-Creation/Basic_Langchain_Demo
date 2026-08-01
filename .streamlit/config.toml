@@ -1,0 +1,22 @@
+[theme]
+# Establishes the dark baseline for Streamlit's base components
+base="dark"
+
+# A striking neon magenta/pink for buttons, loading spinners, and accents.
+# This pops aggressively against the dark background.
+primaryColor="#FF2A6D"
+
+# A very deep, premium midnight blue/black for the main chat area.
+# Pure black (#000000) looks cheap; this adds depth.
+backgroundColor="#050B14"
+
+# A slightly lighter, glassy midnight shade for the sidebar and chat input box.
+# This creates visual separation and layers on the screen.
+secondaryBackgroundColor="#111827"
+
+# Crisp, icy-blue/off-white text.
+# Pure white causes eye strain on dark backgrounds; this softens it beautifully.
+textColor="#E2E8F0"
+
+# Forces a clean, modern, sans-serif font for maximum readability.
+font="sans serif"
